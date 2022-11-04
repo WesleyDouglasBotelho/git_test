@@ -4,3 +4,5 @@ Vamos aprender fundamentos do Git.
 Sim
 Qual a sua instituição?
 UNIR
+Qual seu curos?
+Ciencia da Computacao
